@@ -1,7 +1,18 @@
 main_bkp.py
+
 main_bkp_final.py
+data/
+*/data/*
+data/*
+
+
 medsam.py
+
+./bbox.csv
+bbox.csv
+
 bbox2.csv
+
 NOTES
 *.pyc
 # Project specific
