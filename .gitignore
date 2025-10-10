@@ -4,6 +4,8 @@ main_bkp_final.py
 data/
 */data/*
 data/*
+trained_model/
+trained_model/*
 
 
 medsam.py
