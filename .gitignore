@@ -1,12 +1,13 @@
 main_bkp.py
 .vscode/*
+.vscode/
 .vscode
 main_bkp_final.py
 data/
 */data/*
 data/*
 trained_model/*
-
+train/*
 medsam.py
 
 ./bbox.csv
