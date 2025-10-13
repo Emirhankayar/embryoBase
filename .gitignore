@@ -5,9 +5,7 @@ main_bkp_final.py
 data/
 */data/*
 data/*
-trained_model/
 trained_model/*
-
 
 medsam.py
 
@@ -191,3 +189,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+trained_model/*
