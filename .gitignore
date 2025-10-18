@@ -9,10 +9,10 @@ data/*
 trained_model/*
 train/*
 medsam.py
-
+multi_fine_tune_sam.ipynb
 ./bbox.csv
 bbox.csv
-
+bbox_500.csv
 bbox2.csv
 
 NOTES
