@@ -1,0 +1,5 @@
+train/
+train/*
+medsam_finetuned/*
+medsam_finetuned
+.vscode/    
